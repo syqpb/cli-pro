@@ -25,7 +25,8 @@
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
-    "yargs": "^17.5.1"
+    "yargs": "^17.5.1",
+    "@keith.d/commonds": "file:../../commonds"
   },
   "gitHead": "1a03e47fe8ea11032dcb2bafaba11b0bbe0d13eb"
 }
