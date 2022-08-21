@@ -1,5 +1,5 @@
 {
-  "name": "commonds",
+  "name": "@keith.d/commonds",
   "version": "0.0.2",
   "description": "> TODO: description",
   "author": "syqvb <syqvb@126.com>",
@@ -23,5 +23,5 @@
   "dependencies": {
     "yargs": "^17.5.1"
   },
-  "gitHead": "2df3713ce4fa681bfcbdb5bd75779d47e08c7e4d"
+  "gitHead": "1a03e47fe8ea11032dcb2bafaba11b0bbe0d13eb"
 }
